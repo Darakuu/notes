@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"3df926253fa3a4fa","type":"file","file":"Academia/Multimedia/Immagini/Codifica di Golomb.md","x":-740,"y":-320,"width":711,"height":595},
+		{"id":"71d8fd1087686f3f","type":"file","file":"Academia/Multimedia/Immagini/Codifica Aritmetica.md","x":40,"y":-320,"width":720,"height":595},
+		{"id":"43caa15fc683fe91","type":"file","file":"Academia/Multimedia/Immagini/Codifica LZ77.md","x":-740,"y":380,"width":711,"height":680,"color":"2"},
+		{"id":"d622be2bc9eb9d5b","type":"file","file":"Academia/Multimedia/Immagini/Codifica LZW.md","x":40,"y":380,"width":720,"height":680,"color":"2"},
+		{"id":"935dd6dc5634b07d","type":"file","file":"Academia/Multimedia/Immagini/Codifica RLE.md","x":-740,"y":1140,"width":711,"height":660},
+		{"id":"f64ca3b02c430c91","type":"file","file":"Academia/Multimedia/Immagini/Codifica Symbol Based.md","x":40,"y":1140,"width":720,"height":660},
+		{"id":"cbe50580717fffbb","type":"file","file":"Academia/Multimedia/Immagini/Codifica BitPlane.md","x":-740,"y":1880,"width":711,"height":680}
+	],
+	"edges":[]
+}

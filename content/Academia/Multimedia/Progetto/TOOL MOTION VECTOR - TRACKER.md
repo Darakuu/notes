@@ -1,0 +1,12 @@
+---
+tags:
+  - Academia/Multimedia
+  - Project
+---
+- TOOL PARAMETRIZZABILE:
+  - Visualizzatore motion vector:
+	- Creare bounding box
+	- Spostare facendo motion tracking
+		- Con più algoritmi
+	- Diversi algoritmi per motion field anche
+	- Filtro anti rumore (jitter etc)

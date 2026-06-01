@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"fac25c319f4fd1c4","type":"group","x":-1260,"y":160,"width":1449,"height":1140,"color":"2","label":"Metriche Oggettive"},
+		{"id":"ab85a6f54b2ad411","type":"group","x":320,"y":160,"width":1100,"height":680,"color":"4","label":"Metriche Soggettive"},
+		{"id":"43b51245952a8c9a","type":"file","file":"Academia/Multimedia/Immagini/SSCQE.md","x":1000,"y":200,"width":400,"height":164},
+		{"id":"b80ac88ddd104b1c","type":"file","file":"Academia/Multimedia/Immagini/MOS.md","x":1000,"y":436,"width":400,"height":164},
+		{"id":"e3da98add25e7bcd","type":"file","file":"Academia/Multimedia/Immagini/DSCQS.md","x":1000,"y":656,"width":400,"height":164},
+		{"id":"7651c0dd88f3a624","type":"file","file":"Academia/Multimedia/Immagini/01 Metriche di qualità.md","x":-631,"y":-540,"width":931,"height":585},
+		{"id":"1a53833b4c1d7eae","type":"file","file":"Academia/Multimedia/Immagini/Metriche Oggettive.md","x":-631,"y":200,"width":400,"height":400},
+		{"id":"763284832ef362b1","type":"file","file":"Academia/Multimedia/Immagini/SSIM.md","x":-231,"y":820,"width":400,"height":460},
+		{"id":"817389f56e9650d0","type":"file","file":"Academia/Multimedia/Immagini/PSNR.md","x":-760,"y":820,"width":400,"height":460},
+		{"id":"baf73fe1e18aca67","type":"file","file":"Academia/Multimedia/Immagini/Metriche Soggettive.md","x":340,"y":200,"width":400,"height":400},
+		{"id":"38f49aa27408eeee","type":"text","text":"Reduced Reference: Possediamo alcune info della immagine di riferimento","x":440,"y":-220,"width":445,"height":50},
+		{"id":"db85ad3ea5bd289e","type":"text","text":"**No Reference**: Non abbiamo alcuna info sull'immagine pulita","x":441,"y":-40,"width":444,"height":50},
+		{"id":"0a1fdeb104c056ad","type":"text","text":"**Full Reference**: Possediamo immagine di riferimento","x":440,"y":-400,"width":444,"height":50},
+		{"id":"1a868bab675c23cb","type":"file","file":"Academia/Multimedia/Immagini/MSE.md","x":-1240,"y":820,"width":400,"height":180}
+	],
+	"edges":[
+		{"id":"877d23e8d32c42dc","fromNode":"7651c0dd88f3a624","fromSide":"bottom","toNode":"1a53833b4c1d7eae","toSide":"top"},
+		{"id":"f5179dacdbda1d58","fromNode":"7651c0dd88f3a624","fromSide":"bottom","toNode":"baf73fe1e18aca67","toSide":"top"},
+		{"id":"0943a9fb800e2030","fromNode":"1a53833b4c1d7eae","fromSide":"bottom","toNode":"763284832ef362b1","toSide":"top"},
+		{"id":"e6872edc9623b238","fromNode":"1a53833b4c1d7eae","fromSide":"bottom","toNode":"817389f56e9650d0","toSide":"top"},
+		{"id":"0e14d485f987ce99","fromNode":"baf73fe1e18aca67","fromSide":"right","toNode":"43b51245952a8c9a","toSide":"left"},
+		{"id":"c455779abd8b0efd","fromNode":"baf73fe1e18aca67","fromSide":"right","toNode":"b80ac88ddd104b1c","toSide":"left"},
+		{"id":"44eb5bf34a20d1b6","fromNode":"baf73fe1e18aca67","fromSide":"right","toNode":"e3da98add25e7bcd","toSide":"left"},
+		{"id":"d42e4a14e83db2c6","fromNode":"1a53833b4c1d7eae","fromSide":"bottom","toNode":"1a868bab675c23cb","toSide":"top"},
+		{"id":"cbc8c64b9c203ea2","fromNode":"1a868bab675c23cb","fromSide":"right","toNode":"817389f56e9650d0","toSide":"left"},
+		{"id":"17da72f9d9becaaa","fromNode":"7651c0dd88f3a624","fromSide":"right","toNode":"0a1fdeb104c056ad","toSide":"left"},
+		{"id":"6a058fd0b9c6ecff","fromNode":"7651c0dd88f3a624","fromSide":"right","toNode":"38f49aa27408eeee","toSide":"left"},
+		{"id":"27e36db1f0e7a893","fromNode":"7651c0dd88f3a624","fromSide":"right","toNode":"db85ad3ea5bd289e","toSide":"left"}
+	]
+}

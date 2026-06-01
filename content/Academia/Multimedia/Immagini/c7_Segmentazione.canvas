@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0c1867c165c7ad99","type":"group","x":700,"y":-640,"width":981,"height":1140,"color":"3","label":"Edge-Based"},
+		{"id":"a24c54f45eb60f14","type":"group","x":-1520,"y":-640,"width":900,"height":1140,"color":"5","label":"Thresholding"},
+		{"id":"195334e8c4e54733","type":"file","file":"Academia/Multimedia/Immagini/07 Segmentazione di Immagini.md","x":-390,"y":-640,"width":860,"height":1140},
+		{"id":"fb9b0d1de774b263","type":"file","file":"Academia/Multimedia/Immagini/LoG.md","x":720,"y":-580,"width":421,"height":400},
+		{"id":"74acc76ebb31539d","type":"file","file":"Academia/Multimedia/Immagini/DRoG.md","x":1241,"y":-580,"width":420,"height":400},
+		{"id":"046f84fae87ec111","type":"file","file":"Academia/Multimedia/Immagini/Metodo di Canny.md","x":720,"y":-120,"width":941,"height":580},
+		{"id":"9f2bd8f97f086b4d","type":"file","file":"Academia/Multimedia/Immagini/Metodo di Otsu.md","x":-1500,"y":-20,"width":860,"height":500},
+		{"id":"e2360aa66b567d57","type":"file","file":"Academia/Multimedia/Immagini/Thresholding.md","x":-1500,"y":-600,"width":860,"height":540}
+	],
+	"edges":[
+		{"id":"bc653bb1824aba25","fromNode":"195334e8c4e54733","fromSide":"right","toNode":"0c1867c165c7ad99","toSide":"left"},
+		{"id":"8ad51f805e5e2fd5","fromNode":"195334e8c4e54733","fromSide":"left","toNode":"a24c54f45eb60f14","toSide":"right"}
+	]
+}

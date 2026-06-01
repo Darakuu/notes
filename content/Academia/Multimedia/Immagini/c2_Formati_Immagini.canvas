@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"2420c2913fba9acc","type":"file","file":"Academia/Multimedia/Immagini/02 Formati Immagini.md","x":-400,"y":-440,"width":940,"height":820},
+		{"id":"a930ba4f839016f4","type":"file","file":"Academia/Multimedia/Immagini/GIF.md","x":-340,"y":546,"width":860,"height":674,"color":"4"},
+		{"id":"effdf4aa933a8bde","type":"file","file":"Academia/Multimedia/Immagini/PNG.md","x":580,"y":546,"width":780,"height":674,"color":"2"},
+		{"id":"c756ae870b2a6db4","type":"file","file":"Academia/Multimedia/Immagini/Bitmap.md","x":-1120,"y":546,"width":720,"height":674,"color":"5"}
+	],
+	"edges":[
+		{"id":"9c26a751c85a7877","fromNode":"2420c2913fba9acc","fromSide":"bottom","toNode":"c756ae870b2a6db4","toSide":"top"},
+		{"id":"ca9e027bc78d5c18","fromNode":"2420c2913fba9acc","fromSide":"bottom","toNode":"a930ba4f839016f4","toSide":"top"},
+		{"id":"e337f7280bb37127","fromNode":"2420c2913fba9acc","fromSide":"bottom","toNode":"effdf4aa933a8bde","toSide":"top"}
+	]
+}

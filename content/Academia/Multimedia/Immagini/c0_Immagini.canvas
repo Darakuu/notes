@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"8bda63f4c5094db6","x":-227,"y":-116,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c1_Metriche_Qualità.canvas"},
+		{"id":"bb43af4cd2e7e059","x":360,"y":-116,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c2_Formati_Immagini.canvas"},
+		{"id":"6bdb080be5acec1f","x":360,"y":600,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c4_Morfologia_Matematica.canvas"},
+		{"id":"02be0ab1128dc50b","x":-227,"y":600,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c3_Codifiche.canvas"},
+		{"id":"7532fc024c3adab8","x":-227,"y":1280,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c6_Restauro.canvas"},
+		{"id":"cf0e893af4b56e1f","x":360,"y":1280,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c7_Segmentazione.canvas"},
+		{"id":"7afc42294c907ecb","x":1000,"y":600,"width":400,"height":400,"type":"file","file":"Academia/Multimedia/Immagini/c5_Watermarking.canvas"}
+	],
+	"edges":[]
+}
