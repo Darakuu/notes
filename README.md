@@ -1,4 +1,4 @@
-[![Website Status](https://github.com/Darakuu/notes/actions/workflows/deploy.yml/badge.svg?branch=v5&event=status)](https://github.com/Darakuu/notes/actions/workflows/deploy.yml)
+[![Deploy Quartz site to GitHub Pages](https://github.com/Darakuu/notes/actions/workflows/deploy.yml/badge.svg)](https://github.com/Darakuu/notes/actions/workflows/deploy.yml)
 
 # Quartz v5
 
