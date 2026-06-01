@@ -1,3 +1,5 @@
+[![Website Status](https://github.com/Darakuu/notes/actions/workflows/deploy.yml/badge.svg?branch=v5&event=status)](https://github.com/Darakuu/notes/actions/workflows/deploy.yml)
+
 # Quartz v5
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
